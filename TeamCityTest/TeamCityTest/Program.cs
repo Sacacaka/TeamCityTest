@@ -6,7 +6,7 @@ namespace TeamCityTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Salut le monde!");
         }
     }
 }
