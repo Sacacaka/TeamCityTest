@@ -1,0 +1,13 @@
+C:\Users\vrondeau\Documents\TeamCityTest\TeamCityTest\TeamCityTest\bin\Debug\netcoreapp3.1\TeamCityTest.exe
+C:\Users\vrondeau\Documents\TeamCityTest\TeamCityTest\TeamCityTest\bin\Debug\netcoreapp3.1\TeamCityTest.deps.json
+C:\Users\vrondeau\Documents\TeamCityTest\TeamCityTest\TeamCityTest\bin\Debug\netcoreapp3.1\TeamCityTest.runtimeconfig.json
+C:\Users\vrondeau\Documents\TeamCityTest\TeamCityTest\TeamCityTest\bin\Debug\netcoreapp3.1\TeamCityTest.runtimeconfig.dev.json
+C:\Users\vrondeau\Documents\TeamCityTest\TeamCityTest\TeamCityTest\bin\Debug\netcoreapp3.1\TeamCityTest.dll
+C:\Users\vrondeau\Documents\TeamCityTest\TeamCityTest\TeamCityTest\bin\Debug\netcoreapp3.1\TeamCityTest.pdb
+C:\Users\vrondeau\Documents\TeamCityTest\TeamCityTest\TeamCityTest\obj\Debug\netcoreapp3.1\TeamCityTest.csprojAssemblyReference.cache
+C:\Users\vrondeau\Documents\TeamCityTest\TeamCityTest\TeamCityTest\obj\Debug\netcoreapp3.1\TeamCityTest.AssemblyInfoInputs.cache
+C:\Users\vrondeau\Documents\TeamCityTest\TeamCityTest\TeamCityTest\obj\Debug\netcoreapp3.1\TeamCityTest.AssemblyInfo.cs
+C:\Users\vrondeau\Documents\TeamCityTest\TeamCityTest\TeamCityTest\obj\Debug\netcoreapp3.1\TeamCityTest.csproj.CoreCompileInputs.cache
+C:\Users\vrondeau\Documents\TeamCityTest\TeamCityTest\TeamCityTest\obj\Debug\netcoreapp3.1\TeamCityTest.dll
+C:\Users\vrondeau\Documents\TeamCityTest\TeamCityTest\TeamCityTest\obj\Debug\netcoreapp3.1\TeamCityTest.pdb
+C:\Users\vrondeau\Documents\TeamCityTest\TeamCityTest\TeamCityTest\obj\Debug\netcoreapp3.1\TeamCityTest.genruntimeconfig.cache
