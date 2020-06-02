@@ -28,7 +28,7 @@ namespace TeamCityUnitTests
         [Test]
         public void Test4()
         {
-            int result = TeamCity.Program.Sum(-2, 3);
+            int result = TeamCity.Program.Sum(-3, 3);
             Assert.AreEqual(0, result);
         }
     }
