@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamCityTest", "TeamCityTest\TeamCityTest.csproj", "{93E71AF2-08E7-4388-9B0E-6D6050147F10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamCityUnitTests", "TeamCityUnitTests\TeamCityUnitTests.csproj", "{99F079DC-4E0E-4BD1-A505-487DC160A1FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamCity", "TeamCity\TeamCity.csproj", "{52182A81-8742-4502-9FE2-659C9F300F22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{93E71AF2-08E7-4388-9B0E-6D6050147F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{93E71AF2-08E7-4388-9B0E-6D6050147F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{93E71AF2-08E7-4388-9B0E-6D6050147F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{93E71AF2-08E7-4388-9B0E-6D6050147F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F079DC-4E0E-4BD1-A505-487DC160A1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F079DC-4E0E-4BD1-A505-487DC160A1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F079DC-4E0E-4BD1-A505-487DC160A1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F079DC-4E0E-4BD1-A505-487DC160A1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52182A81-8742-4502-9FE2-659C9F300F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52182A81-8742-4502-9FE2-659C9F300F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52182A81-8742-4502-9FE2-659C9F300F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52182A81-8742-4502-9FE2-659C9F300F22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
